@@ -5,13 +5,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'Daily Gotchas',
   tagline: 'The more you know',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://keatmin.github.io',
+  baseUrl: '/docusaurus_poc/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/logo.png',
-  organizationName: 'keatmin', // Usually your GitHub org/user name.
-  projectName: 'daily gotchas', // Usually your repo name.
+  organizationName: 'keatmin',
+  projectName: 'docusaurus_poc',
+  trailingSlash: false,
   themeConfig: {
     hideableSidebar: true,
     colorMode: {
