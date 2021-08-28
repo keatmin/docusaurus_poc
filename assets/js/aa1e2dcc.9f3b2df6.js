@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgotchas=self.webpackChunkgotchas||[]).push([[465],{3450:function(s){s.exports=JSON.parse('{"allTagsPath":"/docusaurus_poc/gotchas/tags","slug":"hello","name":"hello","count":2,"permalink":"/docusaurus_poc/gotchas/tags/hello"}')}}]);

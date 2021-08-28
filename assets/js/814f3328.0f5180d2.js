@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgotchas=self.webpackChunkgotchas||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/docusaurus_poc/gotchas/welcome"},{"title":"Hello","permalink":"/docusaurus_poc/gotchas/hello-world"}]}')}}]);

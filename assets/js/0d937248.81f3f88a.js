@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgotchas=self.webpackChunkgotchas||[]).push([[137],{8294:function(e){e.exports=JSON.parse('{"pluginId":"knowledge","version":"current","label":"Next","banner":"none","isLast":true,"docsSidebars":{"tutorialSidebar":[{"type":"link","label":"Miao","href":"/docusaurus_poc/knowledge/"}]}}')}}]);
